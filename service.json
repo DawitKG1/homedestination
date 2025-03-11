@@ -187,8 +187,8 @@
         "website": null,
         "service_ty": "Restaurant",
         "owner_name": "W/r Almaz Shicha",
-        "moto": null,
-        "image1":  "https://images.trvl-media.com/hotels/28000000/27250000/27243300/27243272/d38c49df_z.jpg"
+        "moto": null
+       
 
     },
     {
@@ -209,8 +209,8 @@
         "website": null,
         "service_ty": "Restaurant",
         "owner_name": "W/r Almaz Tsige",
-        "moto": null,
-        "image1": "https://raw.githubusercontent.com/ermyas04/ima/main/haile%20resourt2.jpg"
+        "moto": null
+        
 
     },
     {
@@ -232,7 +232,7 @@
         "service_ty": "Restaurant",
         "owner_name": "W/r Aster Auntina",
         "moto": null,
-        "image1": "https://raw.githubusercontent.com/ermyas04/ima/main/haile%20resourt2.jpg"
+        
 
     },
     {
